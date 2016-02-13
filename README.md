@@ -1,4 +1,4 @@
-# PixelGun
+# Pixels: A Game of Pictures
 
 ## Author
 
@@ -6,7 +6,7 @@ Andre Askari ([JustAskAndre@gmail.com](mailto:JustAskAndre@gmail.com))
 
 ## Description
 
-Pixels is a game where users create a picture by shooting pixels into place onto a grid before the timer runs out. With every completed picture, users get a rating out of 3 stars on their performance in the level and also a series of coins to buy future packages of pictures to complete.
+Pixels is a game where users create a picture by flicking pixels into place onto a grid before the timer runs out. With every completed picture, users get a rating out of 3 stars on their performance in the level and also a series of coins to buy future packages of pictures to complete.
 
 As pixels are shot from the dashboard below onto the screen, the timer is replenished just a little bit but players will need to rely on streaks of pixels (without missing) to beat the levels. With every streak of 5 pixels, not only is more time rewarded but some pixels are automatically placed on the screen helping complete the picture faster.
 
@@ -14,11 +14,20 @@ As pixels are shot from the dashboard below onto the screen, the timer is replen
 
 <img src="Description Pictures/IMG_4407.PNG" height="400" alt="Screenshot"/>
 
+This is a screenshot of a level where a player has almost completed the picture.
+As ou can see, there is a pixel at the bottom waiting to be flicked off the dashboard.
+
 <img src="Description Pictures/IMG_4408.PNG" height="400" alt="Screenshot"/>
+
+This is the screen players are greeted with after beating a level.
 
 <img src="Description Pictures/IMG_4410.PNG" height="400" alt="Screenshot"/>
 
+This screen shows a package with multiple levels already completed, the next level avaialable (with a glittery question mark), and the levels still locked.
+
 <img src="Description Pictures/IMG_4411.PNG" height="400" alt="Screenshot"/>
+
+This screen shows the main view where players swipe through all available packages.
 
 ## What's working
 * Basic gameplay
