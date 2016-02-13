@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>GameAssets/Arrow.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{576, 143}, {128, 88}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 1}, {128, 88}}</string>
+			<key>sourceSize</key>
+			<string>{128, 90}</string>
+		</dict>
+		<key>GameAssets/Coin.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{947, 1}, {64, 64}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {64, 64}}</string>
+			<key>sourceSize</key>
+			<string>{64, 64}</string>
+		</dict>
+		<key>GameAssets/Glove.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{725, 143}, {105, 148}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {105, 148}}</string>
+			<key>sourceSize</key>
+			<string>{105, 148}</string>
+		</dict>
+		<key>GameAssets/LargeCoins.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1}, {500, 622}}</string>
+			<key>offset</key>
+			<string>{1, -2}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{11, 11}, {500, 622}}</string>
+			<key>sourceSize</key>
+			<string>{520, 640}</string>
+		</dict>
+		<key>GameAssets/Lock.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{725, 1}, {140, 220}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{30, 18}, {140, 220}}</string>
+			<key>sourceSize</key>
+			<string>{200, 256}</string>
+		</dict>
+		<key>GameAssets/Lock_black.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{503, 1}, {140, 220}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{30, 18}, {140, 220}}</string>
+			<key>sourceSize</key>
+			<string>{200, 256}</string>
+		</dict>
+		<key>GameAssets/MediumCoins.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 625}, {278, 374}}</string>
+			<key>offset</key>
+			<string>{-3, -29}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{8, 92}, {278, 374}}</string>
+			<key>sourceSize</key>
+			<string>{300, 500}</string>
+		</dict>
+		<key>GameAssets/Platform_black.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{463, 625}, {237, 111}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {237, 111}}</string>
+			<key>sourceSize</key>
+			<string>{237, 111}</string>
+		</dict>
+		<key>GameAssets/Question Mark.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{505, 864}, {156, 218}}</string>
+			<key>offset</key>
+			<string>{1, -2}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{23, 18}, {156, 218}}</string>
+			<key>sourceSize</key>
+			<string>{200, 250}</string>
+		</dict>
+		<key>GameAssets/SmallCoins.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{281, 625}, {180, 310}}</string>
+			<key>offset</key>
+			<string>{10, -4}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{70, 36}, {180, 310}}</string>
+			<key>sourceSize</key>
+			<string>{300, 375}</string>
+		</dict>
+		<key>GameAssets/Star Shadow.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{358, 937}, {75, 78}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {75, 78}}</string>
+			<key>sourceSize</key>
+			<string>{75, 78}</string>
+		</dict>
+		<key>GameAssets/Star.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{281, 937}, {75, 78}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {75, 78}}</string>
+			<key>sourceSize</key>
+			<string>{75, 78}</string>
+		</dict>
+		<key>GameAssets/Touch.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{435, 937}, {68, 68}}</string>
+			<key>offset</key>
+			<string>{1, -1}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{4, 4}, {68, 68}}</string>
+			<key>sourceSize</key>
+			<string>{75, 75}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>size</key>
+		<string>{1024, 1024}</string>
+		<key>textureFileName</key>
+		<string>GameAssets.png</string>
+	</dict>
+</dict>
+</plist>

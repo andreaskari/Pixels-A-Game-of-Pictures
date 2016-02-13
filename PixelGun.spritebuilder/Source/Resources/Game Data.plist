@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Current Package Index</key>
+	<integer>0</integer>
+	<key>Displayed Coins</key>
+	<integer>2500</integer>
+	<key>Nondisplayed Coins</key>
+	<integer>0</integer>
+	<key>Coins For Removal</key>
+	<integer>0</integer>
+	<key>Righthanded</key>
+	<true/>
+	<key>Tutorial</key>
+	<integer>1</integer>
+	<key>Level to Resume</key>
+	<dict>
+		<key>Package Index</key>
+		<integer>-1</integer>
+		<key>Level Index</key>
+		<integer>0</integer>
+		<key>Shuffled Pixels</key>
+		<array/>
+		<key>Pixel Size</key>
+		<integer>0</integer>
+		<key>Picture Dimensions</key>
+		<array>
+			<integer>0</integer>
+			<integer>0</integer>
+		</array>
+		<key>Pixels Displayed</key>
+		<integer>10</integer>
+		<key>Missed Pixels</key>
+		<integer>0</integer>
+		<key>Streak</key>
+		<integer>0</integer>
+		<key>Award Pixels</key>
+		<integer>0</integer>
+		<key>Already Awarded Pixels</key>
+		<true/>
+		<key>Time Left</key>
+		<integer>0</integer>
+		<key>Tutorial Step</key>
+		<integer>0</integer>
+	</dict>
+	<key>Packages</key>
+	<array>
+		<dict>
+			<key>Package Name</key>
+			<string>Fruit</string>
+			<key>Current Picture Index</key>
+			<integer>0</integer>
+			<key>Package Contents</key>
+			<array>
+				<dict>
+					<key>Filename</key>
+					<string>Orange</string>
+					<key>Stars</key>
+					<integer>0</integer>
+					<key>Locked</key>
+					<true/>
+				</dict>
+				<dict>
+					<key>Filename</key>
+					<string>Apple</string>
+					<key>Stars</key>
+					<integer>0</integer>
+					<key>Locked</key>
+					<true/>
+				</dict>
+				<dict>
+					<key>Filename</key>
+					<string>Pear</string>
+					<key>Stars</key>
+					<integer>0</integer>
+					<key>Locked</key>
+					<true/>
+				</dict>
+				<dict>
+					<key>Filename</key>
+					<string>Mango</string>
+					<key>Stars</key>
+					<integer>0</integer>
+					<key>Locked</key>
+					<true/>
+				</dict>
+				<dict>
+					<key>Filename</key>
+					<string>Peach</string>
+					<key>Stars</key>
+					<integer>0</integer>
+					<key>Locked</key>
+					<true/>
+				</dict>
+				<dict>
+					<key>Filename</key>
+					<string>Kiwi</string>
+					<key>Stars</key>
+					<integer>0</integer>
+					<key>Locked</key>
+					<true/>
+				</dict>
+				<dict>
+					<key>Filename</key>
+					<string>Coconut</string>
+					<key>Stars</key>
+					<integer>0</integer>
+					<key>Locked</key>
+					<true/>
+				</dict>
+				<dict>
+					<key>Filename</key>
+					<string>Pomegranate</string>
+					<key>Stars</key>
+					<integer>0</integer>
+					<key>Locked</key>
+					<true/>
+				</dict>
+				<dict>
+					<key>Filename</key>
+					<string>Banana</string>
+					<key>Stars</key>
+					<integer>0</integer>
+					<key>Locked</key>
+					<true/>
+				</dict>
+			</array>
+			<key>Locked</key>
+			<false/>
+			<key>Levels Passed</key>
+			<integer>0</integer>
+			<key>Package Price</key>
+			<integer>0</integer>
+			<key>Tile Colors</key>
+			<array>
+				<integer>0</integer>
+				<integer>128</integer>
+				<integer>255</integer>
+			</array>
+		</dict>
+		<dict>
+			<key>Package Name</key>
+			<string>Computer</string>
+			<key>Current Picture Index</key>
+			<integer>0</integer>
+			<key>Package Contents</key>
+			<array>
+				<dict>
+					<key>Filename</key>
+					<string>Laptop</string>
+					<key>Stars</key>
+					<integer>0</integer>
+					<key>Locked</key>
+					<true/>
+				</dict>
+				<dict>
+					<key>Filename</key>
+					<string>Controller</string>
+					<key>Stars</key>
+					<integer>0</integer>
+					<key>Locked</key>
+					<true/>
+				</dict>
+				<dict>
+					<key>Filename</key>
+					<string>Monitor</string>
+					<key>Stars</key>
+					<integer>0</integer>
+					<key>Locked</key>
+					<true/>
+				</dict>
+				<dict>
+					<key>Filename</key>
+					<string>Text</string>
+					<key>Stars</key>
+					<integer>0</integer>
+					<key>Locked</key>
+					<true/>
+				</dict>
+				<dict>
+					<key>Filename</key>
+					<string>Folder</string>
+					<key>Stars</key>
+					<integer>0</integer>
+					<key>Locked</key>
+					<true/>
+				</dict>
+				<dict>
+					<key>Filename</key>
+					<string>Music</string>
+					<key>Stars</key>
+					<integer>0</integer>
+					<key>Locked</key>
+					<true/>
+				</dict>
+				<dict>
+					<key>Filename</key>
+					<string>Movie</string>
+					<key>Stars</key>
+					<integer>0</integer>
+					<key>Locked</key>
+					<true/>
+				</dict>
+				<dict>
+					<key>Filename</key>
+					<string>Picture</string>
+					<key>Stars</key>
+					<integer>0</integer>
+					<key>Locked</key>
+					<true/>
+				</dict>
+				<dict>
+					<key>Filename</key>
+					<string>Computer</string>
+					<key>Stars</key>
+					<integer>0</integer>
+					<key>Locked</key>
+					<true/>
+				</dict>
+			</array>
+			<key>Locked</key>
+			<true/>
+			<key>Levels Passed</key>
+			<integer>0</integer>
+			<key>Package Price</key>
+			<integer>1000</integer>
+			<key>Tile Colors</key>
+			<array>
+				<integer>168</integer>
+				<integer>111</integer>
+				<integer>225</integer>
+			</array>
+		</dict>
+		<dict>
+			<key>Package Name</key>
+			<string>Candy</string>
+			<key>Current Picture Index</key>
+			<integer>0</integer>
+			<key>Package Contents</key>
+			<array>
+				<dict>
+					<key>Filename</key>
+					<string>Candy Cane</string>
+					<key>Stars</key>
+					<integer>0</integer>
+					<key>Locked</key>
+					<true/>
+				</dict>
+				<dict>
+					<key>Filename</key>
+					<string>Candy Corn</string>
+					<key>Stars</key>
+					<integer>0</integer>
+					<key>Locked</key>
+					<true/>
+				</dict>
+				<dict>
+					<key>Filename</key>
+					<string>Chocolate</string>
+					<key>Stars</key>
+					<integer>0</integer>
+					<key>Locked</key>
+					<true/>
+				</dict>
+				<dict>
+					<key>Filename</key>
+					<string>Taffy</string>
+					<key>Stars</key>
+					<integer>0</integer>
+					<key>Locked</key>
+					<true/>
+				</dict>
+				<dict>
+					<key>Filename</key>
+					<string>Jelly Beans</string>
+					<key>Stars</key>
+					<integer>0</integer>
+					<key>Locked</key>
+					<true/>
+				</dict>
+				<dict>
+					<key>Filename</key>
+					<string>Gummy Worms</string>
+					<key>Stars</key>
+					<integer>0</integer>
+					<key>Locked</key>
+					<true/>
+				</dict>
+				<dict>
+					<key>Filename</key>
+					<string>Peppermint</string>
+					<key>Stars</key>
+					<integer>0</integer>
+					<key>Locked</key>
+					<true/>
+				</dict>
+				<dict>
+					<key>Filename</key>
+					<string>Gum Drops</string>
+					<key>Stars</key>
+					<integer>0</integer>
+					<key>Locked</key>
+					<true/>
+				</dict>
+				<dict>
+					<key>Filename</key>
+					<string>Lollipop</string>
+					<key>Stars</key>
+					<integer>0</integer>
+					<key>Locked</key>
+					<true/>
+				</dict>
+			</array>
+			<key>Locked</key>
+			<true/>
+			<key>Levels Passed</key>
+			<integer>0</integer>
+			<key>Package Price</key>
+			<integer>1500</integer>
+			<key>Tile Colors</key>
+			<array>
+				<integer>14</integer>
+				<integer>130</integer>
+				<integer>255</integer>
+			</array>
+		</dict>
+	</array>
+	<key>Unused Packages</key>
+	<array>
+		<dict>
+			<key>Package Name</key>
+			<string>Social Media</string>
+			<key>Current Picture Index</key>
+			<integer>0</integer>
+			<key>Package Contents</key>
+			<array>
+				<dict>
+					<key>Filename</key>
+					<string>Facebook</string>
+					<key>Stars</key>
+					<integer>0</integer>
+					<key>Locked</key>
+					<true/>
+				</dict>
+				<dict>
+					<key>Filename</key>
+					<string>Twitter</string>
+					<key>Stars</key>
+					<integer>0</integer>
+					<key>Locked</key>
+					<true/>
+				</dict>
+				<dict>
+					<key>Filename</key>
+					<string>Flickr</string>
+					<key>Stars</key>
+					<integer>0</integer>
+					<key>Locked</key>
+					<true/>
+				</dict>
+				<dict>
+					<key>Filename</key>
+					<string>LinkedIn</string>
+					<key>Stars</key>
+					<integer>0</integer>
+					<key>Locked</key>
+					<true/>
+				</dict>
+				<dict>
+					<key>Filename</key>
+					<string>Reddit</string>
+					<key>Stars</key>
+					<integer>0</integer>
+					<key>Locked</key>
+					<true/>
+				</dict>
+				<dict>
+					<key>Filename</key>
+					<string>Pinterest</string>
+					<key>Stars</key>
+					<integer>0</integer>
+					<key>Locked</key>
+					<true/>
+				</dict>
+				<dict>
+					<key>Filename</key>
+					<string>Blogger</string>
+					<key>Stars</key>
+					<integer>0</integer>
+					<key>Locked</key>
+					<true/>
+				</dict>
+				<dict>
+					<key>Filename</key>
+					<string>Google+</string>
+					<key>Stars</key>
+					<integer>0</integer>
+					<key>Locked</key>
+					<true/>
+				</dict>
+				<dict>
+					<key>Filename</key>
+					<string>Instagram</string>
+					<key>Stars</key>
+					<integer>0</integer>
+					<key>Locked</key>
+					<true/>
+				</dict>
+			</array>
+			<key>Locked</key>
+			<true/>
+			<key>Levels Passed</key>
+			<integer>0</integer>
+			<key>Package Price</key>
+			<real>1000</real>
+			<key>Tile Colors</key>
+			<array>
+				<integer>25</integer>
+				<integer>25</integer>
+				<integer>112</integer>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Header</key>
+		<string>Art for Packs</string>
+		<key>Credits</key>
+		<array>
+			<dict>
+				<key>Item</key>
+				<string>Computer Pack</string>
+				<key>Piece</key>
+				<string>8 Bit Icon Attack: Standard</string>
+				<key>Artist</key>
+				<string>Monoculus</string>
+			</dict>
+			<dict>
+				<key>Item</key>
+				<string>Social Media Pack</string>
+				<key>Piece</key>
+				<string>8 Bit Icon Attack: Social</string>
+				<key>Artist</key>
+				<string>Monoculus</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>Header</key>
+		<string>Game Art</string>
+		<key>Credits</key>
+		<array>
+			<dict>
+				<key>Item</key>
+				<string>Tutorial: Glove</string>
+				<key>Piece</key>
+				<string>White Glove Clipart</string>
+				<key>Artist</key>
+				<string>Stephanie (clkr.com)</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>Header</key>
+		<string>Game Sound Effects</string>
+		<key>Credits</key>
+		<array>
+			<dict>
+				<key>Item</key>
+				<string>Star Appear Sound Effect</string>
+				<key>Piece</key>
+				<string>another magic wand spell tinkle.flac</string>
+				<key>Artist</key>
+				<string>Timbre</string>
+			</dict>
+		</array>
+	</dict>
+</array>
+</plist>

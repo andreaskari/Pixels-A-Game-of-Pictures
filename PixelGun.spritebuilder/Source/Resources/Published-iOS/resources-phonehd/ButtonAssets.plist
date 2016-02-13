@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>ButtonAssets/back-down.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{560, 257}, {254, 74}}</string>
+			<key>offset</key>
+			<string>{0, -3}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 6}, {254, 74}}</string>
+			<key>sourceSize</key>
+			<string>{254, 80}</string>
+		</dict>
+		<key>ButtonAssets/back.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{326, 1}, {254, 80}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {254, 80}}</string>
+			<key>sourceSize</key>
+			<string>{254, 80}</string>
+		</dict>
+		<key>ButtonAssets/finish-down.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{484, 257}, {254, 74}}</string>
+			<key>offset</key>
+			<string>{0, -3}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 6}, {254, 74}}</string>
+			<key>sourceSize</key>
+			<string>{254, 80}</string>
+		</dict>
+		<key>ButtonAssets/finish.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{244, 257}, {254, 80}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {254, 80}}</string>
+			<key>sourceSize</key>
+			<string>{254, 80}</string>
+		</dict>
+		<key>ButtonAssets/next-down.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{566, 1}, {254, 74}}</string>
+			<key>offset</key>
+			<string>{0, -3}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 6}, {254, 74}}</string>
+			<key>sourceSize</key>
+			<string>{254, 80}</string>
+		</dict>
+		<key>ButtonAssets/next.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{408, 1}, {254, 80}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {254, 80}}</string>
+			<key>sourceSize</key>
+			<string>{254, 80}</string>
+		</dict>
+		<key>ButtonAssets/no-300.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{636, 257}, {142, 150}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {142, 150}}</string>
+			<key>sourceSize</key>
+			<string>{142, 150}</string>
+		</dict>
+		<key>ButtonAssets/no-500.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1}, {241, 254}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {241, 254}}</string>
+			<key>sourceSize</key>
+			<string>{241, 254}</string>
+		</dict>
+		<key>ButtonAssets/replay-down.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{408, 257}, {254, 74}}</string>
+			<key>offset</key>
+			<string>{0, -3}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 6}, {254, 74}}</string>
+			<key>sourceSize</key>
+			<string>{254, 80}</string>
+		</dict>
+		<key>ButtonAssets/replay.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{326, 257}, {254, 80}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {254, 80}}</string>
+			<key>sourceSize</key>
+			<string>{254, 80}</string>
+		</dict>
+		<key>ButtonAssets/resume-down.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{490, 1}, {254, 74}}</string>
+			<key>offset</key>
+			<string>{0, -3}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 6}, {254, 74}}</string>
+			<key>sourceSize</key>
+			<string>{254, 80}</string>
+		</dict>
+		<key>ButtonAssets/resume.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{244, 1}, {254, 80}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {254, 80}}</string>
+			<key>sourceSize</key>
+			<string>{254, 80}</string>
+		</dict>
+		<key>ButtonAssets/yes-300.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{780, 1}, {142, 150}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {142, 150}}</string>
+			<key>sourceSize</key>
+			<string>{142, 150}</string>
+		</dict>
+		<key>ButtonAssets/yes-500.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 257}, {241, 254}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {241, 254}}</string>
+			<key>sourceSize</key>
+			<string>{241, 254}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>size</key>
+		<string>{1024, 512}</string>
+		<key>textureFileName</key>
+		<string>ButtonAssets.png</string>
+	</dict>
+</dict>
+</plist>
